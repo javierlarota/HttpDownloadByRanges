@@ -1,0 +1,6 @@
+c:\users\jlarota\documents\visual studio 2017\Projects\DownloadHttpFileByRange\DownloadHttpFileByRange\bin\Debug\DownloadHttpFileByRange.exe.config
+c:\users\jlarota\documents\visual studio 2017\Projects\DownloadHttpFileByRange\DownloadHttpFileByRange\bin\Debug\DownloadHttpFileByRange.exe
+c:\users\jlarota\documents\visual studio 2017\Projects\DownloadHttpFileByRange\DownloadHttpFileByRange\bin\Debug\DownloadHttpFileByRange.pdb
+c:\users\jlarota\documents\visual studio 2017\Projects\DownloadHttpFileByRange\DownloadHttpFileByRange\obj\Debug\DownloadHttpFileByRange.csprojResolveAssemblyReference.cache
+c:\users\jlarota\documents\visual studio 2017\Projects\DownloadHttpFileByRange\DownloadHttpFileByRange\obj\Debug\DownloadHttpFileByRange.exe
+c:\users\jlarota\documents\visual studio 2017\Projects\DownloadHttpFileByRange\DownloadHttpFileByRange\obj\Debug\DownloadHttpFileByRange.pdb
